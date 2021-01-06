@@ -5,4 +5,4 @@ cost = 1146
 paid = float(input("How much money have you paid: "))
 
 unpaid = float(cost - paid)
-print("You owe ", unpaid)
+print("You owe $", unpaid)
