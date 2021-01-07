@@ -7,7 +7,6 @@ Xtina is a Python tool that allows a user to be on the same payment track with t
 On your Mac, open up your terminal (⌘+Space). Type terminal and use following commands to download project:
 ```bash
 cd ~
-mkdir xtina
 git clone https://github.com/esnardojj/xtina.git
 ```
 
