@@ -36,7 +36,7 @@ pull()
 print("Everything's up to date!")
 
 # Greeting everytime
-greeting = "Hi Christina! How are you today?\n"
+greeting = "Hi Christina!!! How are you today?\n"
 get_response = input(greeting)
 
 # Prompts
