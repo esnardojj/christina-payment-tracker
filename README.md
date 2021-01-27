@@ -15,6 +15,5 @@ git clone https://github.com/esnardojj/xtina.git
 Great! Now that you have that downloaded, please type this command to begin:
 ```bash
 cd xtina
-git pull
 python3 xtina.py
 ```
