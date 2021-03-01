@@ -7,11 +7,11 @@ date = datetime.datetime.now()
 
 # Set grand total cost
 cost = 1263
-paid = float((146*3)+(165*4))
+paid = float((146*3)+(165*5))
 unpaid = float(cost - paid)
 
 # Set payments
-payments = str(7)
+payments = str(8)
 
 # Prompt 1
 prompt_one = ("\nPlease type the number that matches the action you'd like to do today: \n(1) See Payment Details\n(2) See Airbnb Costs")
